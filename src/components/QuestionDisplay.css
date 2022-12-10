@@ -1,0 +1,17 @@
+.questionBox{
+    background-color: black;
+    color: bisque;
+}
+
+.heading{
+    font-weight: 500;
+} 
+.SubmitBtn{
+    font-weight: 600;
+    font-size: 20px;
+    color: white;
+    border-radius: 5px;
+}
+.SubmitBtn:hover {
+    color:white;
+}

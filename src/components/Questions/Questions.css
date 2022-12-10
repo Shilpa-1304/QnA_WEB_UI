@@ -1,0 +1,21 @@
+.qnA{
+    font-weight: 500;
+}
+.response_btn{
+    
+    background-color:rgb(2, 138, 2);
+    font-weight: 600;
+    bottom: 0px;
+    position: relative;
+}
+.response_btn:hover{
+    
+    background-color:rgb(1, 117, 1);
+}
+.inputcontainer{
+    width:fit-content;
+    height: fit-content;
+}
+.form-check-label:hover{
+   color: orangered;
+}
